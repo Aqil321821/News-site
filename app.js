@@ -1,1 +1,1 @@
-//javascript to be written here
+//javascript for news app
